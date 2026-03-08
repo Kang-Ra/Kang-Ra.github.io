@@ -202,6 +202,10 @@ button:hover{
     height: 50%;
 }
 
+#menu-capcin{
+    padding-bottom: 4%;
+}
+
 #gbrcapcin{
     height: 50% ;
 }
@@ -577,4 +581,5 @@ padding-top: 0;
 #menu-capcin{
     padding-bottom: 5%;
 }
+
 }
