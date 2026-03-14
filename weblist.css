@@ -510,7 +510,6 @@ margin-left: 20%;
 @media (max-width : 600px){
 body {
     height: auto;
-    background-image: url(codioful-formerly-gradienta-OzfD79w8ptA-unsplash.jpg);
 }
  nav ul {
     flex-direction: column;
