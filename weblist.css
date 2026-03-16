@@ -1002,7 +1002,9 @@ button{
     margin-top: 20%;
 }
 
-
+#hero-section{
+    height: 35rem;
+}
 .menumakanan{
     padding-top: 5%;
     width: 80%;
